@@ -3,7 +3,7 @@
 This matrix maps system requirements to test scenarios and test cases to ensure full test coverage.
 
 Requirement	Test Scenario	Test Case
-
+|------|----------------------------------------------|------|
 REQ-001	Verify user can login with valid credentials	TC001
 REQ-002	Verify user cannot login with invalid password	TC002
 REQ-003	Verify locked user cannot login	TC003
